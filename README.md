@@ -23,7 +23,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 
 | Week   | Day | Lesson |
 |:-----:|:---:|:------:|
-| Week 1| 1   |[Introduction Backend Development](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)- [JSON and APIs](https://github.com/Tuwaiq-Academy-Training/JSON-and-APIs)|--- |
+| Week 1| 1   |[How Websites Work](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)- [JSON and APIs](https://github.com/Tuwaiq-Academy-Training/JSON-and-APIs)|--- |
 | Week 1| 2   |[Express](https://github.com/Tuwaiq-Academy-Training/Express) JS - [Testing APIs](https://github.com/Tuwaiq-Academy-Training/Testing-apis)|--- |
 | Week 1| 3   |[Express](https://github.com/Tuwaiq-Academy-Training/Express) TS - [Middleware](https://github.com/Tuwaiq-Academy-Training/middleware) |
 | Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
